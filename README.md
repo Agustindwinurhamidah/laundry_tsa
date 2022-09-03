@@ -12,4 +12,5 @@ Buat database dengan nama laundry
 Lalu Import database
 Lalu jalankan aplikasi dengan mengetik localhost/Kirana Laundry
 Bisa langsung registrasi pada aplikasi
-Untuk login sebagai admin ketik localhost/Kirana Laundry/admin_portal/login.php 10.Username : admin, Password : admin
+Untuk login sebagai admin ketik localhost/Kirana Laundry/admin_portal/login.php 
+Username : admin, Password : admin
